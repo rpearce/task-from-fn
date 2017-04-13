@@ -2,3 +2,6 @@
 # yarn lockfile v1
 
 
+data.task@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/data.task/-/data.task-3.1.1.tgz#e985f5bedadd926b2d63c1a5d2076cff917a52ad"

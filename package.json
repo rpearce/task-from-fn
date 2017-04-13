@@ -6,9 +6,9 @@
   "repository": "git@github.com:rpearce/task-from-fn.git",
   "author": "Robert Pearce <me@robertwpearce.com>",
   "license": "MIT",
-  "devDependencies": {
-  },
-  "peerDependencies": {
+  "dependencies": {
     "data.task": "^3.1.1"
+  },
+  "devDependencies": {
   }
 }
