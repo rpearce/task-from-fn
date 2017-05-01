@@ -7,7 +7,16 @@ _NOTE: this library's functionality has now been implemented in Folktale: [https
 
 Convert a JavaScript function with node-style callback in to a Task from the [data.task](https://www.npmjs.com/package/data.task) package.
 
-# Usage
+## Installation
+```
+$ npm install task-from-fn --save
+```
+or with yarn,
+```
+$ yarn add task-from-fn
+```
+
+## Usage
 ```js
 const taskFromFn = require('task-from-fn')
 const fs = require('fs')
